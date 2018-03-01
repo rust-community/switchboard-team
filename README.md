@@ -10,15 +10,15 @@ Connect the community with the right Rust resources or people, gather feedback f
 ## Goals
 
 - **Goal**: Coordinate with production users in Rust
-- **Measureable**: Town halls run, companies added to friends list, companies talked with, 
-- **Timeframe**: measure at 1-2y intervals
-- **Resources needed**: N/A
+  - **Measureable**: Town halls run, companies added to friends list, companies talked with, 
+  - **Timeframe**: measure at 1-2y intervals
+  - **Resources needed**: N/A
 
  - **Goal**: Engage community to participate in the evolution of rust
- - **Measurable**: Get more submissions to conferences, meetups
- - **Timeframe**: N/A
- - **Resources needed**: N/A
- - **Notes**: This goal is shared with events and content
+   - **Measurable**: Get more submissions to conferences, meetups
+   - **Timeframe**: N/A
+   - **Resources needed**: N/A
+   - **Notes**: This goal is shared with events and content
 
 
 ## Why a switchboard team?
