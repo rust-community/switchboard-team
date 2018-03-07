@@ -2,6 +2,8 @@
 
 Members: Manish , booyaa, badboy
 
+Meetings: 9AM PST on alternate thursdays (alternating with the community team meating, synchronized with the events team meeting)
+
 ## Focus
 
 Connect the community with the right Rust resources or people, gather feedback from production users, increase Rust presence in other communities
